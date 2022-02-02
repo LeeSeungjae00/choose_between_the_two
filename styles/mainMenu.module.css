@@ -1,0 +1,13 @@
+.mainMenu{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    padding: 8rem;
+    grid-template-columns: 1fr 1fr;
+}
+
+.menuContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
